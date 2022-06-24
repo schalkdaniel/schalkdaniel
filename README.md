@@ -1,5 +1,15 @@
-### Hi there 👋
+### 👋 I'm Daniel
 
+- :school: PhD candidate in data science
+- :rocket: Interested in machine learning, statistical modelling, programming, automated reporting, and data visualization
+- :computer: Author and maintainer of [compboost](https://www.github.com/schalkdaniel/compboost) and [dsBinVal](https://www.github.com/difuture-lmu/dsBinVal) as well as contributor of [mlr3tuning](https://www.github.com/mlr-org/mlr3tuning)
+- :bicyclist: [Sport](https://www.strava.com/athletes/85875680) and nutrition enthusiast
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=schalkdaniel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schalkdaniel)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **schalkdaniel/schalkdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
