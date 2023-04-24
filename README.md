@@ -1,6 +1,6 @@
 ### 👋 I'm Daniel
 
-- :school: PhD candidate in data science
+- :school: PhD in statistics / data science
 - :rocket: Interested in machine learning, statistical modelling, programming, automated reporting, and data visualization
 - :computer: Author and maintainer of [compboost](https://www.github.com/schalkdaniel/compboost) and [dsBinVal](https://www.github.com/difuture-lmu/dsBinVal) as well as contributor of [mlr3tuning](https://www.github.com/mlr-org/mlr3tuning)
 - :bicyclist: [Sport](https://www.strava.com/athletes/85875680) and nutrition enthusiast
